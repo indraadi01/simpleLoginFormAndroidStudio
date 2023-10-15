@@ -1,0 +1,3 @@
+# simpleLoginFormAndroidStudio
+This project is for creating a Login Form in Android Studio using Linear Layout by adding elements such as Image View, Text View, Button, Edit Text with the programming logic of setting a predetermined username and password, with each condition when entering the username and password a different message appears also via Toast.
+This project is an assignment in the Geospatial Programming for Mobile Devices program course 1 (Linear Layout) using the Java programming language on Geographics Information System Study Program, Vocational Collage, Gadjah Mada University.
